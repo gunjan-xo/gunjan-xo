@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gunjan Jeena</h1>
 <h3 align="center">I'm a web/backend developer . With basic knowledge about android dev.</h3>
-<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/71b8c2970d6a2e5b4cbbf498eafbae7e/bb3e5fbf30c53b54-f3/s400x600/999bb7cb35af0a0e481335650545972a6f593db9.gifv">
+<img align="right" alt="coding" width="400" src="[https://64.media.tumblr.com/71b8c2970d6a2e5b4cbbf498eafbae7e/bb3e5fbf30c53b54-f3/s400x600/999bb7cb35af0a0e481335650545972a6f593db9.gifv](https://www.bluey.tv/wp-content/uploads/2024/01/tv-ezgif.com-video-to-gif-converter.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjan-xo&label=Profile%20views&color=0e75b6&style=flat" alt="gunjan-xo" /> </p>
 
